@@ -1,5 +1,5 @@
 ### Hi there, I'm Jalil 👋
-I am a fullstack developer with experience in PHP, TypeScript, MySQL, Go, and python.<br />
+I am a fullstack developer with experience in PHP, TypeScript, LDAP, SQL and noSQL databases, Go and python.<br />
 Currently learning  NestJS.
 
 <!--
