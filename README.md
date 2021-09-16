@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Jalil 👋
+I am a fullstack developer with experience in PHP, TypeScript, MySQL, Go, and python.
+Currently learning  NestJS.
 
 <!--
 **thesaintboy/thesaintboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
